@@ -16,7 +16,10 @@ This project is created for mini project submission, Java practice, and placemen
 - Withdraw Money
 - Deposit Money
 - Mini Statement
+- Change PIN Feature
 - Exit Option
+- Input Validation
+- Method-Based Professional Structure
 
 ---
 
@@ -55,7 +58,6 @@ ATM PIN: 1234
 
 ## Future Improvements
 
-- Change PIN Option
 - Money Transfer
 - Multiple User Support
 - JDBC + MySQL Integration
