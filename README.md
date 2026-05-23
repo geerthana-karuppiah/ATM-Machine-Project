@@ -12,40 +12,45 @@ This project is created for mini project submission, Java practice, and placemen
 ## Features
 
 - ATM Number and PIN Validation
-- View Available Balance
-- Withdraw Money
+- Check Available Balance
 - Deposit Money
-- Mini Statement
-- Change PIN Feature
-- Exit Option
+- Withdraw Money
+- Transaction History using ArrayList
+- Secure PIN Change
+- Constructor-Based Initialization
 - Input Validation
-- Method-Based Professional Structure
+- Menu-Driven Interface
+- Object-Oriented Programming (OOP)
 
 ---
 
 ## Technologies Used
 
 - Java
+- OOP (Classes and Objects)
+- Encapsulation
+- Constructors
+- ArrayList
 - Scanner Class
-- Conditional Statements
 - Loops
 - Switch Case
-- Basic OOP Concepts
+- Conditional Statements
 
 ---
 
 ## How It Works
 
-1. User enters ATM Number
-2. User enters ATM PIN
-3. System validates login
-4. ATM menu is displayed
-5. User can perform:
-   - Balance Check
-   - Withdraw
-   - Deposit
-   - View Mini Statement
-6. User exits safely
+1. User enters ATM Number and PIN
+2. System validates credentials
+3. ATM menu is displayed
+4. User can:
+   - Check Balance
+   - Deposit Money
+   - Withdraw Money
+   - View Transaction History
+   - Change PIN Securely
+5. All transactions are stored dynamically using ArrayList
+6. User exits the application safely
 
 ---
 
@@ -55,15 +60,41 @@ ATM Number: 12345
 ATM PIN: 1234
 
 ---
+## Project Evolution
+
+### V1
+- Basic ATM operations
+- Balance Check
+- Deposit
+- Withdraw
+- Mini Statement
+
+### V2
+- Method-based structure
+- Better validation
+- Change PIN feature
+
+### V3
+- OOP implementation
+- Classes and Objects
+- Encapsulation using private variables
+
+### V4
+- Constructor-based initialization
+- Transaction history using ArrayList
+- Enhanced for-loop implementation
+- Secure PIN verification and update
 
 ## Future Improvements
 
-- Money Transfer
 - Multiple User Support
+- Money Transfer
+- Exception Handling
+- File Handling
 - JDBC + MySQL Integration
 - GUI using Java Swing
 - OTP Verification
-- Transaction History using Database
+- Transaction Date and Time Tracking
 
 ---
 
